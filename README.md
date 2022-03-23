@@ -12,19 +12,19 @@
 
 ## General Information
 - To determine:
- - Which variables are significant in predicting the demand for shared bikes.
- - How well those variables describe the bike demands
+    - Which variables are significant in predicting the demand for shared bikes.
+    - How well those variables describe the bike demands
 - The business is to earn revenue by encourage sharing of bikes and supplying sufficient bikes to satisfy demand 
 - Business Goal
- - Model the demand for shared bikes with the available independent variables
- - Target model usage:
-    - Understand how exactly the demands vary with different features
-    - Manipulate business strategy to meet demand levels and cater to cusomer satisfaction
-    - Understand the demand dynamics of a new market
+    - Model the demand for shared bikes with the available independent variables
+    - Target model usage:
+        - Understand how exactly the demands vary with different features
+        - Manipulate business strategy to meet demand levels and cater to cusomer satisfaction
+        - Understand the demand dynamics of a new market
 - Data Source:
- - Location : America
- - Meteorological survey
- - People's styles
+    - Location : America
+    - Meteorological survey
+    - People's styles
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
